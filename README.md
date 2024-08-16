@@ -16,6 +16,10 @@ This project shows how I studied software architecture patterns and Implementati
 
    It is the most perfect architecture for mobile app that is effiecient to build, test and scale up the app.
 
+2. Flutter Cookie Cutter [https://github.com/wonjaeyeon/flutter_cookie_cutter] - WonJaeYeon
+
+   Flutter application implemented with Android developers's App architecture Guides, MVVM architecture that android developers recommended.
+
 # Web Application Architecture(Server architecture)
 
 # AI Project Architecture
