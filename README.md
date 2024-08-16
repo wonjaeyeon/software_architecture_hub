@@ -4,6 +4,7 @@ This project shows how I studied software architecture patterns and Implementati
 # Software Architecture In General
 
 1. Software Architecture Patterns[https://ae.oreilly.com/Software_Architecture_Patterns] - Mark Richards
+
    It is a book of a general software architecture pattterns that is applicable to almost every software.
 
 
@@ -12,6 +13,7 @@ This project shows how I studied software architecture patterns and Implementati
 # Mobile Application Architecture
 
 1. App architecture Guides [https://developer.android.com/topic/architecture/intro] - Android developers[Google]
+
    It is the most perfect architecture for mobile app that is effiecient to build, test and scale up the app.
 
 # Web Application Architecture(Server architecture)
