@@ -20,8 +20,12 @@ This project shows how I studied software architecture patterns and Implementati
 
    Flutter application implemented with Android developers's App architecture Guides, MVVM architecture that android developers recommended.
 
-# Web Application Architecture(Server architecture)
+# Cloud architecture(Server-Side)
 
+1. Spring Cloud Architecture Patterns - WonjaeYeon
+
+   Spring Cloud Project implemented with Spring IO's Official Documents Guide about spring cloud, Microservices that spring suggests.
+   
 # AI Project Architecture
 
 ## System Design
